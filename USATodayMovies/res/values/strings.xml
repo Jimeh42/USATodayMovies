@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USAToday Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="rating_label">USAToday Rating: </string>
+    <string name="director_label">Dir. </string>
+    <string name="reviewer_label">-- </string>
+    <string name="url_label">Full review</string>
+    <string name="empty_list">Loading latest reviews&#8230;</string>
+    <string name="movie_api_endpoint">http://api.usatoday.com/open/reviews/movies/recent?encoding=json&amp;api_key=jejanbnwafxur7n2x2zajauf</string>
+    <string name="content_error">Bad content update</string>
+    <string name="comm_error">Communication failure, please try again</string>
+    
+</resources>
